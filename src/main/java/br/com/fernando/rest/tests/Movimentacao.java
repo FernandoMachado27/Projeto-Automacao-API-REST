@@ -1,4 +1,4 @@
-package br.com.fernando.tests;
+package br.com.fernando.rest.tests;
 
 import lombok.Getter;
 import lombok.Setter;
